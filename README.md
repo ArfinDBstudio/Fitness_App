@@ -1,9 +1,9 @@
 # clone project
 
-git clone https://github.com/mohdarfin27/fitnesswebapp.git
+git clone https://github.com/ArfinDBstudio/Fitness_App.git
 
 # Navigate to folder in terminal
- cd python app
+ cd fitnesswebapp
 
  # and type below commands
  * pip install pipenv 
@@ -11,4 +11,4 @@ git clone https://github.com/mohdarfin27/fitnesswebapp.git
  * pip install nltk
  * pipenv shell
  * py manage.py runserver
-  # To perform above cmd use should have python on your pc
+  # To perform above cmd use should have python on your pc which should be configure in environmental variable
