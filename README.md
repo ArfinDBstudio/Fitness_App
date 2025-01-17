@@ -12,3 +12,5 @@ git clone https://github.com/ArfinDBstudio/Fitness_App.git
  * pipenv shell
  * py manage.py runserver
   # To perform above cmd use should have python on your pc which should be configure in environmental variable
+# images
+![My Image](homepage.png)
