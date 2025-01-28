@@ -14,3 +14,8 @@ git clone https://github.com/ArfinDBstudio/Fitness_App.git
   # To perform above cmd you should have python on your pc which should be configure in environmental variable
 # images
 ![My Image](homepage.png)
+![My Image](bmrcalc.png)
+![My Image](ecom.png)
+![My Image](features.png)
+![My Image](chatbot.png)
+![My Image](workout.png)
